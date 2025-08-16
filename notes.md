@@ -1,23 +1,3 @@
-# E2E-Book-Recommender-System
-
-
-
-
-```bash
-https://github.com/ankurgupta338/E2E-Book-Recommender-System.git
-```
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Source: 
